@@ -28,4 +28,6 @@ Why? I don't know!
 So, what else?
 No clue.
 
----This article may be updated later as all information is parsed through by me. I have a life yk----
+## Image Generation
+This new update now adds image generation through the magic wand (markup) or through Mimojis and in messages. This is again processed on-device, so nothing is sent to the cloud no matter what. 
+It has three styles: animation, which looks like it's from an animated movie; illustration, which is mimicing a piece of human art; and sketch, which is like a drawing
