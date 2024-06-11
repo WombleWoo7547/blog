@@ -4,14 +4,14 @@ import Layout from '../layouts/BlogPost.astro';
 
 <Layout
 	title="About Me"
-	description="Lorem ipsum dolor sit amet"
-	pubDate={new Date('August 08 2021')}
+	description="Who the hell is this Thomas Mead guy?"
+	pubDate={new Date()}
 	heroImage="/blog-placeholder-about.jpg"
 >
 	<p>Redirecting to https://thomasmead.xyz</p>
 	<script>
 		setTimeout(() => {
 			location.replace('https://thomasmead.xyz');
-		}, 30)
+		}, 30);
 	</script>
 </Layout>
